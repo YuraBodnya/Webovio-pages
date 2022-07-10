@@ -1782,6 +1782,7 @@ body._active-burger .burger-menu .burger-menu__link::after {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  border: none;
 }
 
 .popup {
